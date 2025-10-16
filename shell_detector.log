@@ -1,0 +1,9 @@
+2025-10-16 07:12:44,234 - INFO - Monitoring started for C:/Users/anusr/OneDrive/Documents/ai_project
+2025-10-16 07:12:57,811 - INFO - Monitoring started for C:/Users/anusr/OneDrive/Documents/ai_project/aiproject
+2025-10-16 07:19:18,965 - INFO - Monitoring started for D:/skillbridge-full-stack
+2025-10-16 07:33:18,263 - INFO - Scanning directory: C:/Users/anusr/OneDrive/Desktop/cyber_project
+2025-10-16 07:33:18,264 - INFO - Monitoring started for C:/Users/anusr/OneDrive/Desktop/cyber_project
+2025-10-16 07:33:18,267 - WARNING - Potential reverse shell detected in: C:/Users/anusr/OneDrive/Desktop/cyber_project\evil.php, IP: 192.0.2.123, Port: 4444
+2025-10-16 07:33:20,254 - INFO - Telegram alert sent for C:/Users/anusr/OneDrive/Desktop/cyber_project\evil.php (IP: 192.0.2.123, Port: 4444)
+2025-10-16 07:33:20,258 - INFO - Moved C:/Users/anusr/OneDrive/Desktop/cyber_project\evil.php to C:/Users/anusr/OneDrive/Desktop/cyber_project\quarantine\evil.php.
+2025-10-16 07:33:20,283 - INFO - Scan of C:/Users/anusr/OneDrive/Desktop/cyber_project completed.
